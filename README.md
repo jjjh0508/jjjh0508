@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
 
 ### 전지환 입니다.
-# 전지환
->   잘부탁드립니다.<br/> 
->   >   >감사합니다. <br/>
+## 전지환
+# 1. 반갑습니다.
+>   2. 잘부탁드립니다.<br/> 
+>   >   >3. 감사합니다. <br/>
 
 
 
