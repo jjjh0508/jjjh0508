@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
+
+### 전지환 입니다.
+
+>   >잘부탁드립니다.<br/> 감사합니다. <br/>
+
+
+
+
 
 <!--
 **jjjh0508/jjjh0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
