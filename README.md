@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
-
 ### 전지환 입니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjh0508)](https://solved.ac/jjjh0508/)
 
