@@ -1,4 +1,4 @@
-### 전지환 입니다.
+### 백준 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjh0508)](https://solved.ac/jjjh0508/)
 
 
