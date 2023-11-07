@@ -1,5 +1,5 @@
 ![jjjh0508's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjh0508&show_icons=true&theme=dark)
-![jjjh0508's github activity graph](https://activity-graph.herokuapp.com/graph?username=jjjh0508&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jjjh0508&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 백준 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjh0508)](https://solved.ac/jjjh0508/)
